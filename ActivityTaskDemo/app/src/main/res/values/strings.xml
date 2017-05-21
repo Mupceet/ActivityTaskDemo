@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaskDemo</string>
+    <string name="main_activity">MainActivity</string>
+    <string name="standard_activity">StandardActivity</string>
+    <string name="single_top_activity">SingleTopActivity</string>
+    <string name="other_top_activity">OtherTopActivity</string>
+    <string name="single_task_activity">SingleTaskActivity</string>
+    <string name="other_task_activity">OtherTaskActivity</string>
+    <string name="single_instance_activity">SingleInstanceActivity</string>
+    <string name="single_task_with_affinity">SingleTaskWithAffinity</string>
+</resources>
